@@ -6,4 +6,8 @@
     <string name="txt_allergy">No known allergies</string>
     <string name="txt_blood">B negative</string>
     <string name="txt_button">Emergency Contacts</string>
+
+    <string name="txt_ECname1">Joanne</string>
+    <string name="txt_ECrelation1">Mother</string>
+    <string name="txt_ECcontact1">815-123-5555</string>
 </resources>
