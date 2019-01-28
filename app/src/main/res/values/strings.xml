@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="txt_header">Emergency Info</string>
+    <string name="txt_name">Mark Blue</string>
+    <string name="txt_address">7606 E Maplewood Dr</string>
+    <string name="txt_allergy">No known allergies</string>
+    <string name="txt_blood">B negative</string>
+    <string name="txt_button">Emergency Contacts</string>
+</resources>
